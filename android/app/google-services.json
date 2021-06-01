@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126016449822",
+    "project_id": "food-564f4",
+    "storage_bucket": "food-564f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126016449822:android:126bd2abe600a1d3136d0f",
+        "android_client_info": {
+          "package_name": "singhshivani.foodlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126016449822-9kimsh2q3g2idhop0moe13caubqljp66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "singhshivani.foodlab",
+            "certificate_hash": "4a2ca9c0e0279da998f37d66d0afdaa156ca9199"
+          }
+        },
+        {
+          "client_id": "126016449822-3bj74p1lge4vkbvq0nckdhcpm8t7ghvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAko74cqdfMZkW0M0mXkLYYbSeiKXebXls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126016449822-3bj74p1lge4vkbvq0nckdhcpm8t7ghvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
